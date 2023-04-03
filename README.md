@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiotajuelo&label=Profile%20views&color=0e75b6&style=flat" alt="sergiotajuelo" /> </p>
 
-- 🔭 I’m currently working on **API RESTful with Node.js and Expressd, and Realtime Chat with Python and ReactJS**
+- 🔭 I’m currently working on **API RESTful with Node.js and Expressd, and Realtime Chat with React**
 
 - 🌱 I’m currently learning **Python, React, NodeJS, Flutter**
 
