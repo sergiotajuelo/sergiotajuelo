@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **API RESTful with Node.js and Expressd, and Realtime Chat with React**
 
-- 🌱 I’m currently learning **Python, React, NodeJS, Flutter**
+- 🌱 I’m currently learning **Python and React**
 
 - 📫 How to reach me **sergiotajuelo1@gmail.com**
 
