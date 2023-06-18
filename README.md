@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiotajuelo&label=Profile%20views&color=0e75b6&style=flat" alt="sergiotajuelo" /> </p>
 
-- 🔭 I’m currently working on **API RESTful with Node.js and Expressd, and Realtime Chat with React**
+- 🔭 I’m currently working on **Spring API Rest with Angular**
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python and Angular**
 
 - 📫 How to reach me **sergiotajuelo1@gmail.com**
 
